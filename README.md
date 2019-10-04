@@ -44,7 +44,7 @@ When *all* students have recreated the website by paper, you can now display the
 
 I will like to thank [Christopher Wallis](https://github.com/notoriousb1t) and [Stephen Shaw](https://github.com/shshaw) for the [Scroll-Out](https://scroll-out.github.io/) JavaScript microlibrary. This will engage the students into creating more websites.
 
-#### Legal
+---------
 
 (c) Hansel Chávez
 
